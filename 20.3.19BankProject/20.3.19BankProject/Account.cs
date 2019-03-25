@@ -39,10 +39,20 @@ namespace _20._3._19BankProject
          public Account(Customer customer, int monthlyIncome, int balance)
          {
           this.accountNumber = numberOfAcc++;
-          maxMinusAllowed = monthlyIncome * 3;
+          maxMinusAllowed = (monthlyIncome * 3)*-1;
           this.accountOwner = customer;
-            Balance = balance;
+          Balance = balance;
          }
+
+        public void Add(int amount)
+        {
+            Balance = Balance + amount;
+        }
+
+        public void Substract(int amount)
+        {
+            Balance = Balance - amount;
+        }
 
         public static bool operator ==(Account account, Account other)
         {

@@ -9,7 +9,7 @@ namespace _20._3._19BankProject
     public interface IBank
     {
         string Name { get;  }
-        int Adress { get;  }
+        String Adress { get;  }
         int CustomerCount { get; }
     }
 }

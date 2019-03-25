@@ -1,0 +1,7 @@
+C:\Users\Liron\source\repos\20.3.19BankProject\20.3.19BankProject\bin\Debug\20.3.19BankProject.exe.config
+C:\Users\Liron\source\repos\20.3.19BankProject\20.3.19BankProject\bin\Debug\20.3.19BankProject.exe
+C:\Users\Liron\source\repos\20.3.19BankProject\20.3.19BankProject\bin\Debug\20.3.19BankProject.pdb
+C:\Users\Liron\source\repos\20.3.19BankProject\20.3.19BankProject\obj\Debug\20.3.19BankProject.csprojAssemblyReference.cache
+C:\Users\Liron\source\repos\20.3.19BankProject\20.3.19BankProject\obj\Debug\20.3.19BankProject.csproj.CoreCompileInputs.cache
+C:\Users\Liron\source\repos\20.3.19BankProject\20.3.19BankProject\obj\Debug\20.3.19BankProject.exe
+C:\Users\Liron\source\repos\20.3.19BankProject\20.3.19BankProject\obj\Debug\20.3.19BankProject.pdb
